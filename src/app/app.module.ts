@@ -20,6 +20,7 @@ import { SettingsComponent } from './components/settings/settings.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
 
 import { AppRoutingModule } from './/app-routing.module';
+import { ClientService } from './services/client.service';
 
 
 @NgModule({
@@ -44,7 +45,7 @@ import { AppRoutingModule } from './/app-routing.module';
 		AngularFirestoreModule,
 		AngularFireAuthModule
   ],
-  providers: [],
+  providers: [ClientService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -5,7 +5,7 @@ Angular project to add, edit and delete clients, with settings to allow registra
 # Deployed Version
 
 This project was developed to Firebase at:
-[https://clientpanelprod-826f4.firebaseapp.com/]https://clientpanelprod-826f4.firebaseapp.com/
+[https://clientpanelprod-826f4.firebaseapp.com/](https://clientpanelprod-826f4.firebaseapp.com/)
 user: demo@demo.email
 pass: demodemo
 

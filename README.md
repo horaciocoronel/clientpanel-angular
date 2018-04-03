@@ -1,3 +1,14 @@
+# Client Panel
+
+Angular project to add, edit and delete clients, with settings to allow registration or to change client balance.
+
+# Deployed Version
+
+This project was developed to Firebase at:
+[https://clientpanelprod-826f4.firebaseapp.com/]https://clientpanelprod-826f4.firebaseapp.com/
+user: demo@demo.email
+pass: demodemo
+
 # Clientpannel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.

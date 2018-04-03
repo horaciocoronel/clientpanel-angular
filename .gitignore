@@ -46,3 +46,9 @@ Thumbs.db
 # environments
 /src/environments/environment.prod.ts
 /src/environments/environment.ts
+
+# Firebase files
+.firebaserc
+firebase.json
+firestore.indexes.json
+firestore.rules
